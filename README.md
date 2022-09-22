@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SDredz
 - 👀 I’m interested in software development, games and just about most of technology.
-- 🌱 I’m currently learning Flutter, Python, C++ and HTML(CSS and a bit of Javascript with this)
+- 🌱 I’m currently learning Kotlin, Flutter, Python, C++ and HTML(CSS and a bit of Javascript with this)
 - 💞️ I’m looking to collaborate on anything worthwhile and which allows me to learn, as I'm still Learning.
 - 📫 How to reach me is most likely @SDr3dz on twitter
 
